@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD DataHandling</string>
+    <string name="txtName">User Name:</string>
+    <string name="txtPassword">Password</string>
+    <string name="btnSelectAll">Select All</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnSignIn">Sing in</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+</resources>
